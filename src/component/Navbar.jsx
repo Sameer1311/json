@@ -10,12 +10,12 @@ import {
 const Navbar = () => {
   return (
     <nav className="flex w-screen items-center justify-evenly shadow-md px-6 py-3 sticky top-0 z-50">
-      {/* Logo */}
+      
       <div className="text-xl font-bold text-gray-800 dark:text-white hover:text-blue-500 cursor-pointer transition-colors">
-        MyLogo
+        JSON USER
       </div>
 
-      {/* Navigation Links */}
+      
       <ul className="flex items-center space-x-8 text-gray-700 dark:text-gray-300">
       <a href="#user_details">
       <Tooltip>
