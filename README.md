@@ -8,7 +8,7 @@ Manage, add, and view users seamlessly with features like fetching API users, ad
 
 ## 🔹 Demo
 
-[View Live Demo](https://vercel.com/sameer1311s-projects/json/CybUaUTJVXMF6eR4siszDbe9akeG)  
+[View Live Demo](https://json-l9vcz7cqw-sameer1311s-projects.vercel.app/)  
 
 
 ---
@@ -70,10 +70,12 @@ Implemented dynamic search using state and Array.filter to instantly filter user
 
 Tailored responsive design using Tailwind CSS to look clean on mobile, tablet, and desktop.
 
-## 🔹Screenshots
-<img width="1365" height="439" alt="Screenshot 2025-10-26 000840" src="https://github.com/user-attachments/assets/03e8e633-d707-4378-b0d1-d7852b9142b4" />
-<img width="856" height="358" alt="Screenshot 2025-10-26 000851" src="https://github.com/user-attachments/assets/f5414c43-8fff-4586-b5e5-643fe80f77bc" />
-<img width="992" height="611" alt="Screenshot 2025-10-26 000901" src="https://github.com/user-attachments/assets/4be7ca70-009e-4f22-9152-588d01c77dd5" />
+##🔹Screenshots
+
+<img src="https://github.com/user-attachments/assets/03e8e633-d707-4378-b0d1-d7852b9142b4" width="800"/>
+<img src="https://github.com/user-attachments/assets/f5414c43-8fff-4586-b5e5-643fe80f77bc" width="800"/>
+<img src="https://github.com/user-attachments/assets/4be7ca70-009e-4f22-9152-588d01c77dd5" width="800"/>
+
 
 ##🔹 Author
 
